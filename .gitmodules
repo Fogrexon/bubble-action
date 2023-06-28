@@ -1,0 +1,3 @@
+[submodule "bubble-engine"]
+	path = bubble-engine
+	url = git@github.com:Fogrexon/bubble-engine.git
