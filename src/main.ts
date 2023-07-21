@@ -1,5 +1,3 @@
-import { Template, add } from '@fogrexon/bubble-engine'
+import { StaticLoader } from "@fogrexon/bubble-engine";
 
-const template = new Template();
-
-console.log(add(1, 2))
+const loader = new StaticLoader();
